@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.login-section{ display: flex; justify-content: center; align-items: center; min-height: 100vh; background: linear-gradient(-30deg, #03a9f4 0%, #3a78b7 50%, #262626 50%, #607d8b 100%); filter: hue-rotate(120deg); animation: animate 10s linear infinite;}
+
+@keyframes animate{ 0%{filter: hue-rotate(0deg);} 100%{ filter: hue-rotate(360deg);}}
+
+.login-box{ position: relative; padding: 50px; width: 400px; display: flex; justify-content: center; align-items: center; background: rgba(255,255,255,0.2); border-radius: 6px; box-shadow: 0 5px 35px rgba(0,0,0,0.5);}
+
+.login-box .form{ position: relative; width: 100%;}
+.login-box .form h2{ color: #FFF; font-weight: 700; letter-spacing: 2px; margin-bottom: 10px; text-transform: uppercase; font-size: 27px; text-align: center;}
+.login-box .form h3 { color: #FFF; font-weight: 400; letter-spacing: 2px; text-transform: uppercase; font-size: 20px; text-align: center; margin-bottom: 20px;}
+.login-box .form .inputBx{ position: relative; width: 100%; margin-bottom: 20px;}
+.login-box .form .inputBx input{ width: 100%; outline: none; border: 1px rgba(255,255,255,0.2) solid; background: transparent; padding: 8px 10px; border-radius:6px; color: #FFF; box-shadow: inset 0 0 25px rgba(0,0,0,0.2); font-size: 15px; font-weight: 300; padding-left: 50px; letter-spacing: 1px; }
+.login-box .form .inputBx input::placeholder{ color: #FFF;}
+.login-box .form .inputBx img{ position: absolute; top: -10px; left: 0px; transform: scale(0.4); filter: invert(1);}
+
+.login-box .form .inputBx input[type="submit"]{ background: #FFF; color: #000; max-width: 100px; padding: 8px 10px; box-shadow: none; font-weight: 700; letter-spacing: 1px; cursor: pointer;}

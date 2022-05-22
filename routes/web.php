@@ -14,9 +14,9 @@ Route::post('admin/users',[UserLogin::class,'login'])->name('login_users');
 
 Route::get('admin/make_user',[UserLogin::class,'make_user']);   // This will create new users
 
+// Route::group(['middleware' => ['isLogin', 'HtmlMinifier']], function() {
 
-
-Route::middleware(['isLogin'])->group(function () 
+Route::middleware(['HtmlMinifier','isLogin'])->group(function () 
 {
     Route::get('admin/dashboard', [UserLogin::class,'dashboard']);
 

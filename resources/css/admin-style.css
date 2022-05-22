@@ -1,0 +1,38 @@
+
+.gallery-img{ margin: 0 0 25px 0;
+
+}
+
+.gallery-thum-img{
+    float: left; width: 130px; padding: 7px; border: 1px solid #999; margin:0 10px 10px 0; border-radius: 5px; text-align: center;
+}
+
+.gallery-thum-img-box {
+    width: 100%;
+    height: 80px;
+    overflow: hidden !important;
+  }
+
+
+  .gallery-thum-img-box img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+
+  .pe-7s-trash{ font-size: 25px; margin-top: 10px; color: #333;}
+
+  .add-more-img{
+      width: 130px; height: 135px; margin:0 10px 10px 0; padding: 7px; border: 1px solid #999; border-radius: 5px; float: left; justify-content: center; display: flex; align-items: center; cursor: pointer;
+  }
+
+  .add-more-img label{ margin: 0;}
+
+  .gallery-thum-img:hover, .add-more-img:hover{ background: rgba(0,0,0,0.2);}
+
+  .pe-7s-plus{ font-size: 45px; color: #333; cursor: pointer;}
+
+  /* input[type="file"] {
+    display: none;
+} */

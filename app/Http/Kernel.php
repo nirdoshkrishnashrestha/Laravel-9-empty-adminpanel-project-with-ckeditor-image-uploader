@@ -53,6 +53,7 @@ class Kernel extends HttpKernel
      * @var array
      */
     protected $routeMiddleware = [
+        'HtmlMinifier' => \App\Http\Middleware\HtmlMinifier::class,
         'isLogin' => \App\Http\Middleware\AuthCheck::class,
         'AlreadyLoggedIn' => \App\Http\Middleware\AlreadyLoggedIn::class,
         'auth' => \App\Http\Middleware\Authenticate::class,
