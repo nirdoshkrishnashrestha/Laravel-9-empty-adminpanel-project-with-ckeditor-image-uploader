@@ -1,0 +1,7 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x   7 sppp     psacln       4096 Oct 11 00:03 ..
+-rw-r--r--   1 sppp     psacln        907 Oct 10 01:25 AppServiceProvider.php
+-rw-r--r--   1 sppp     psacln        585 Jul 15 10:43 AuthServiceProvider.php
+-rw-r--r--   1 sppp     psacln        380 Jul 15 10:43 BroadcastServiceProvider.php
+-rw-r--r--   1 sppp     psacln        685 Jul 15 10:43 EventServiceProvider.php
+-rw-r--r--   1 sppp     psacln       1680 Jul 15 10:43 RouteServiceProvider.php

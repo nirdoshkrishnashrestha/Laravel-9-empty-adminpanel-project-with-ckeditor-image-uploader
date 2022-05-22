@@ -1,0 +1,12 @@
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   6 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln        611 Jul 15 10:44 FactoryCall.php
+-rw-r--r--   1 sppp     psacln       1386 Jul 15 10:44 FactoryClass.php
+-rw-r--r--   1 sppp     psacln       3024 Jul 15 10:44 FactoryFile.php
+-rw-r--r--   1 sppp     psacln       2996 Jul 15 10:44 FactoryGenerator.php
+-rw-r--r--   1 sppp     psacln       5644 Jul 15 10:44 FactoryMethod.php
+-rw-r--r--   1 sppp     psacln       3539 Jul 15 10:44 FactoryParameter.php
+-rw-r--r--   1 sppp     psacln        930 Jul 15 10:44 GlobalFunctionFile.php
+-rw-r--r--   1 sppp     psacln        773 Jul 15 10:44 StaticMethodFile.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 parts
+-rw-r--r--   1 sppp     psacln       1083 Jul 15 10:44 run.php

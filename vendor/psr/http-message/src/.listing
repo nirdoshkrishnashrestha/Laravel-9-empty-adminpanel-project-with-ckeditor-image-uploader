@@ -1,0 +1,9 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln       6910 Jul 15 10:44 MessageInterface.php
+-rw-r--r--   1 sppp     psacln       4814 Jul 15 10:44 RequestInterface.php
+-rw-r--r--   1 sppp     psacln       2591 Jul 15 10:44 ResponseInterface.php
+-rw-r--r--   1 sppp     psacln      10098 Jul 15 10:44 ServerRequestInterface.php
+-rw-r--r--   1 sppp     psacln       4746 Jul 15 10:44 StreamInterface.php
+-rw-r--r--   1 sppp     psacln       4689 Jul 15 10:44 UploadedFileInterface.php
+-rw-r--r--   1 sppp     psacln      12607 Jul 15 10:44 UriInterface.php

@@ -1,0 +1,8 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x   5 sppp     psacln       4096 Oct 11 00:03 ..
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:03 .github
+-rw-r--r--   1 sppp     psacln       1240 Jul 15 10:44 .php_cs
+-rw-r--r--   1 sppp     psacln       1091 Jul 15 10:44 LICENSE.md
+-rw-r--r--   1 sppp     psacln       1181 Jul 15 10:44 composer.json
+-rw-r--r--   1 sppp     psacln        562 Jul 15 10:44 psalm.xml
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 src

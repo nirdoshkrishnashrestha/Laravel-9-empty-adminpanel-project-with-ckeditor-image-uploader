@@ -1,0 +1,6 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 12:25 ..
+-rw-r--r--   1 sppp     psacln        905 Jul 20 14:22 footer.blade.php
+-rw-r--r--   1 sppp     psacln       2725 Oct  4 13:41 main.blade.php
+-rw-r--r--   1 sppp     psacln       4965 Oct  9 23:08 side-menu.blade.php
+-rw-r--r--   1 sppp     psacln       3646 Oct 10 01:20 top.blade.php

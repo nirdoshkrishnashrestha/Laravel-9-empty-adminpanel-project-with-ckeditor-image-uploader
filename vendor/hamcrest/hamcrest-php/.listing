@@ -1,0 +1,14 @@
+drwxr-xr-x   6 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln         18 Jul 15 10:44 .coveralls.yml
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 .github
+-rw-r--r--   1 sppp     psacln         21 Jul 15 10:44 .gitignore
+-rw-r--r--   1 sppp     psacln        184 Jul 15 10:44 .gush.yml
+-rw-r--r--   1 sppp     psacln        380 Jul 15 10:44 .travis.yml
+-rw-r--r--   1 sppp     psacln       5418 Jul 15 10:44 CHANGES.txt
+-rw-r--r--   1 sppp     psacln       1482 Jul 15 10:44 LICENSE.txt
+-rw-r--r--   1 sppp     psacln      10925 Jul 15 10:44 README.md
+-rw-r--r--   1 sppp     psacln        678 Jul 15 10:44 composer.json
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 generator
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 hamcrest
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 tests

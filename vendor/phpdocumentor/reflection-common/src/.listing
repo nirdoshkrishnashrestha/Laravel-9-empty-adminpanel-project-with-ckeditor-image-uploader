@@ -1,0 +1,8 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln        515 Jul 15 10:44 Element.php
+-rw-r--r--   1 sppp     psacln        666 Jul 15 10:44 File.php
+-rw-r--r--   1 sppp     psacln       2021 Jul 15 10:44 Fqsen.php
+-rw-r--r--   1 sppp     psacln       1166 Jul 15 10:44 Location.php
+-rw-r--r--   1 sppp     psacln        506 Jul 15 10:44 Project.php
+-rw-r--r--   1 sppp     psacln        600 Jul 15 10:44 ProjectFactory.php

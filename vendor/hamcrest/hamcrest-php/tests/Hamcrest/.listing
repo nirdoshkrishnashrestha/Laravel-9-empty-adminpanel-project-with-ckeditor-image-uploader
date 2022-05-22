@@ -1,0 +1,16 @@
+drwxr-xr-x   9 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln       1919 Jul 15 10:44 AbstractMatcherTest.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Array
+-rw-r--r--   1 sppp     psacln        535 Jul 15 10:44 BaseMatcherTest.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Collection
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Core
+-rw-r--r--   1 sppp     psacln       1661 Jul 15 10:44 FeatureMatcherTest.php
+-rw-r--r--   1 sppp     psacln        611 Jul 15 10:44 InvokedMatcherTest.php
+-rw-r--r--   1 sppp     psacln       7357 Jul 15 10:44 MatcherAssertTest.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Number
+-rw-r--r--   1 sppp     psacln       5462 Jul 15 10:44 StringDescriptionTest.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Text
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Type
+-rw-r--r--   1 sppp     psacln       2630 Jul 15 10:44 UtilTest.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 Xml

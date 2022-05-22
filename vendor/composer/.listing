@@ -1,0 +1,14 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x  43 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln      14389 Sep 26 21:28 ClassLoader.php
+-rw-r--r--   1 sppp     psacln      13927 Jul 15 10:44 InstalledVersions.php
+-rw-r--r--   1 sppp     psacln       1070 Jul 15 10:44 LICENSE
+-rw-r--r--   1 sppp     psacln     610122 Oct  9 23:43 autoload_classmap.php
+-rw-r--r--   1 sppp     psacln       2983 Jul 16 10:16 autoload_files.php
+-rw-r--r--   1 sppp     psacln        214 Jul 15 10:44 autoload_namespaces.php
+-rw-r--r--   1 sppp     psacln       6464 Jul 16 10:16 autoload_psr4.php
+-rw-r--r--   1 sppp     psacln       2549 Jul 15 10:44 autoload_real.php
+-rw-r--r--   1 sppp     psacln     671884 Oct  9 23:43 autoload_static.php
+-rw-r--r--   1 sppp     psacln     285794 Jul 15 10:44 installed.json
+-rw-r--r--   1 sppp     psacln      47712 Jul 15 10:44 installed.php
+-rw-r--r--   1 sppp     psacln        925 Jul 15 10:44 platform_check.php

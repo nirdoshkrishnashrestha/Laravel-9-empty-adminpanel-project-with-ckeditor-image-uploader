@@ -1,0 +1,12 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln       1644 Jul 15 10:44 Chunk.php
+-rw-r--r--   1 sppp     psacln       1129 Jul 15 10:44 Diff.php
+-rw-r--r--   1 sppp     psacln       9444 Jul 15 10:44 Differ.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 Exception
+-rw-r--r--   1 sppp     psacln        848 Jul 15 10:44 Line.php
+-rw-r--r--   1 sppp     psacln        486 Jul 15 10:44 LongestCommonSubsequenceCalculator.php
+-rw-r--r--   1 sppp     psacln       2285 Jul 15 10:44 MemoryEfficientLongestCommonSubsequenceCalculator.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 Output
+-rw-r--r--   1 sppp     psacln       3094 Jul 15 10:44 Parser.php
+-rw-r--r--   1 sppp     psacln       1884 Jul 15 10:44 TimeEfficientLongestCommonSubsequenceCalculator.php

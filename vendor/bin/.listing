@@ -1,0 +1,16 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x  43 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln        633 Jul 15 10:44 carbon
+-rw-r--r--   1 sppp     psacln        118 Jul 15 10:44 carbon.bat
+-rw-r--r--   1 sppp     psacln        649 Jul 15 10:44 commonmark
+-rw-r--r--   1 sppp     psacln        126 Jul 15 10:44 commonmark.bat
+-rw-r--r--   1 sppp     psacln        645 Jul 15 10:44 php-parse
+-rw-r--r--   1 sppp     psacln        124 Jul 15 10:44 php-parse.bat
+-rw-r--r--   1 sppp     psacln        631 Jul 15 10:44 phpunit
+-rw-r--r--   1 sppp     psacln        117 Jul 15 10:44 phpunit.bat
+-rw-r--r--   1 sppp     psacln        623 Jul 15 10:44 psysh
+-rw-r--r--   1 sppp     psacln        113 Jul 15 10:44 psysh.bat
+-rw-r--r--   1 sppp     psacln        352 Jul 15 10:44 sail
+-rw-r--r--   1 sppp     psacln        116 Jul 15 10:44 sail.bat
+-rw-r--r--   1 sppp     psacln        681 Jul 15 10:44 var-dump-server
+-rw-r--r--   1 sppp     psacln        142 Jul 15 10:44 var-dump-server.bat

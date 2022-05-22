@@ -1,0 +1,8 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   8 sppp     psacln       4096 Oct 11 00:04 ..
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .psalm
+-rw-r--r--   1 sppp     psacln       4782 Jul 15 10:44 ChangeLog.md
+-rw-r--r--   1 sppp     psacln       1552 Jul 15 10:44 LICENSE
+-rw-r--r--   1 sppp     psacln       2247 Jul 15 10:44 README.md
+-rw-r--r--   1 sppp     psacln        958 Jul 15 10:44 composer.json
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 src

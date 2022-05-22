@@ -1,0 +1,8 @@
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   9 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln        302 Jul 15 10:44 .editorconfig
+-rw-r--r--   1 sppp     psacln         23 Jul 15 10:44 .gitignore
+-rw-r--r--   1 sppp     psacln       1064 Jul 15 10:44 LICENSE
+-rw-r--r--   1 sppp     psacln        325 Jul 15 10:44 README.md
+-rw-r--r--   1 sppp     psacln        560 Jul 15 10:44 composer.json
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 src

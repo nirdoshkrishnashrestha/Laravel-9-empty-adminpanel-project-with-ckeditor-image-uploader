@@ -1,0 +1,10 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x  18 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln        166 Jul 15 10:44 .gitattributes
+-rw-r--r--   1 sppp     psacln        100 Jul 15 10:44 .gitignore
+-rw-r--r--   1 sppp     psacln       1642 Jul 15 10:44 ChangeLog.md
+-rw-r--r--   1 sppp     psacln       1554 Jul 15 10:44 LICENSE
+-rw-r--r--   1 sppp     psacln        496 Jul 15 10:44 README.md
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 build
+-rw-r--r--   1 sppp     psacln        836 Jul 15 10:44 composer.json
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 src

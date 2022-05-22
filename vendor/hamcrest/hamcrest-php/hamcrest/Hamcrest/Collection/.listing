@@ -1,0 +1,4 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x  10 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln       1381 Jul 15 10:44 IsEmptyTraversable.php
+-rw-r--r--   1 sppp     psacln        923 Jul 15 10:44 IsTraversableWithSize.php

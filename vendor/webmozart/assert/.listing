@@ -1,0 +1,11 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln        158 Jul 15 10:44 .editorconfig
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 .github
+-rw-r--r--   1 sppp     psacln        623 Jul 15 10:44 .php_cs
+-rw-r--r--   1 sppp     psacln       5449 Jul 15 10:44 CHANGELOG.md
+-rw-r--r--   1 sppp     psacln       1084 Jul 15 10:44 LICENSE
+-rw-r--r--   1 sppp     psacln      16076 Jul 15 10:44 README.md
+-rw-r--r--   1 sppp     psacln        972 Jul 15 10:44 composer.json
+-rw-r--r--   1 sppp     psacln        407 Jul 15 10:44 psalm.xml
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 src

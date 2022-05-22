@@ -1,0 +1,9 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln        120 Jul 15 10:44 file_header.txt
+-rw-r--r--   1 sppp     psacln          0 Jul 15 10:44 functions_footer.txt
+-rw-r--r--   1 sppp     psacln        654 Jul 15 10:44 functions_header.txt
+-rw-r--r--   1 sppp     psacln          0 Jul 15 10:44 functions_imports.txt
+-rw-r--r--   1 sppp     psacln          2 Jul 15 10:44 matchers_footer.txt
+-rw-r--r--   1 sppp     psacln         86 Jul 15 10:44 matchers_header.txt
+-rw-r--r--   1 sppp     psacln         20 Jul 15 10:44 matchers_imports.txt

@@ -1,0 +1,6 @@
+drwxr-xr-x   3 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln       2339 Jul 15 10:44 Counter.php
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 Exception
+-rw-r--r--   1 sppp     psacln       1958 Jul 15 10:44 LineCountingVisitor.php
+-rw-r--r--   1 sppp     psacln       2619 Jul 15 10:44 LinesOfCode.php

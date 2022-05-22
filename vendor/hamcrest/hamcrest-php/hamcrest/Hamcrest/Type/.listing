@@ -1,0 +1,12 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x  10 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln        473 Jul 15 10:44 IsArray.php
+-rw-r--r--   1 sppp     psacln        493 Jul 15 10:44 IsBoolean.php
+-rw-r--r--   1 sppp     psacln        568 Jul 15 10:44 IsCallable.php
+-rw-r--r--   1 sppp     psacln        555 Jul 15 10:44 IsDouble.php
+-rw-r--r--   1 sppp     psacln        494 Jul 15 10:44 IsInteger.php
+-rw-r--r--   1 sppp     psacln       1033 Jul 15 10:44 IsNumeric.php
+-rw-r--r--   1 sppp     psacln        488 Jul 15 10:44 IsObject.php
+-rw-r--r--   1 sppp     psacln        489 Jul 15 10:44 IsResource.php
+-rw-r--r--   1 sppp     psacln        576 Jul 15 10:44 IsScalar.php
+-rw-r--r--   1 sppp     psacln        477 Jul 15 10:44 IsString.php

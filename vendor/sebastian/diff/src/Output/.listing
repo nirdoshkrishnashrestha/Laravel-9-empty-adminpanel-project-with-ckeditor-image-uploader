@@ -1,0 +1,7 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln       1538 Jul 15 10:44 AbstractChunkOutputBuilder.php
+-rw-r--r--   1 sppp     psacln       2098 Jul 15 10:44 DiffOnlyOutputBuilder.php
+-rw-r--r--   1 sppp     psacln        521 Jul 15 10:44 DiffOutputBuilderInterface.php
+-rw-r--r--   1 sppp     psacln      10978 Jul 15 10:44 StrictUnifiedDiffOutputBuilder.php
+-rw-r--r--   1 sppp     psacln       8486 Jul 15 10:44 UnifiedDiffOutputBuilder.php

@@ -1,0 +1,11 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   9 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln       2295 Jul 15 10:44 IsEmptyStringTest.php
+-rw-r--r--   1 sppp     psacln       1148 Jul 15 10:44 IsEqualIgnoringCaseTest.php
+-rw-r--r--   1 sppp     psacln       1390 Jul 15 10:44 IsEqualIgnoringWhiteSpaceTest.php
+-rw-r--r--   1 sppp     psacln        859 Jul 15 10:44 MatchesPatternTest.php
+-rw-r--r--   1 sppp     psacln       2489 Jul 15 10:44 StringContainsIgnoringCaseTest.php
+-rw-r--r--   1 sppp     psacln       1255 Jul 15 10:44 StringContainsInOrderTest.php
+-rw-r--r--   1 sppp     psacln       2650 Jul 15 10:44 StringContainsTest.php
+-rw-r--r--   1 sppp     psacln       1898 Jul 15 10:44 StringEndsWithTest.php
+-rw-r--r--   1 sppp     psacln       1909 Jul 15 10:44 StringStartsWithTest.php

@@ -1,0 +1,9 @@
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x  13 sppp     psacln       4096 Oct 11 12:10 ..
+-rw-r--r--   1 sppp     psacln        603 Jul 15 10:43 .htaccess
+drwxr-xr-x   6 sppp     psacln       4096 Oct 11 00:03 admin
+-rw-r--r--   1 sppp     psacln          0 Jul 15 10:43 favicon.ico
+drwxr-xr-x   5 sppp     psacln       4096 Oct 11 00:03 front
+-rw-r--r--   1 sppp     psacln       1735 Jul 15 10:43 index.php
+-rw-r--r--   1 sppp     psacln         24 Jul 15 10:43 robots.txt
+-rw-r--r--   1 sppp     psacln       1183 Jul 15 10:43 web.config

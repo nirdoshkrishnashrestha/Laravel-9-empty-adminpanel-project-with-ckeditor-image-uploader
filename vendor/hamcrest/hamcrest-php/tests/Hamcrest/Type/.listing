@@ -1,0 +1,12 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   9 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln        937 Jul 15 10:44 IsArrayTest.php
+-rw-r--r--   1 sppp     psacln        951 Jul 15 10:44 IsBooleanTest.php
+-rw-r--r--   1 sppp     psacln       2815 Jul 15 10:44 IsCallableTest.php
+-rw-r--r--   1 sppp     psacln        950 Jul 15 10:44 IsDoubleTest.php
+-rw-r--r--   1 sppp     psacln        985 Jul 15 10:44 IsIntegerTest.php
+-rw-r--r--   1 sppp     psacln       1848 Jul 15 10:44 IsNumericTest.php
+-rw-r--r--   1 sppp     psacln        905 Jul 15 10:44 IsObjectTest.php
+-rw-r--r--   1 sppp     psacln        922 Jul 15 10:44 IsResourceTest.php
+-rw-r--r--   1 sppp     psacln       1138 Jul 15 10:44 IsScalarTest.php
+-rw-r--r--   1 sppp     psacln        943 Jul 15 10:44 IsStringTest.php

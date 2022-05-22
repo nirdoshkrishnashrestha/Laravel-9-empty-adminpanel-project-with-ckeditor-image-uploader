@@ -1,0 +1,6 @@
+drwxr-xr-x   5 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x  13 sppp     psacln       4096 Oct 11 12:10 ..
+-rw-r--r--   1 sppp     psacln         10 Jul 15 10:43 .gitignore
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 factories
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 migrations
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 seeders

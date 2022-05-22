@@ -1,0 +1,12 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:03 .
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:03 ..
+-rw-r--r--   1 sppp     psacln        455 Jul 17 16:18 AlreadyLoggedIn.php
+-rw-r--r--   1 sppp     psacln        501 Jul 17 16:18 AuthCheck.php
+-rw-r--r--   1 sppp     psacln        469 Jul 15 10:43 Authenticate.php
+-rw-r--r--   1 sppp     psacln        294 Jul 15 10:43 EncryptCookies.php
+-rw-r--r--   1 sppp     psacln        353 Jul 15 10:43 PreventRequestsDuringMaintenance.php
+-rw-r--r--   1 sppp     psacln        734 Jul 15 10:43 RedirectIfAuthenticated.php
+-rw-r--r--   1 sppp     psacln        368 Jul 15 10:43 TrimStrings.php
+-rw-r--r--   1 sppp     psacln        354 Jul 15 10:43 TrustHosts.php
+-rw-r--r--   1 sppp     psacln        585 Jul 15 10:43 TrustProxies.php
+-rw-r--r--   1 sppp     psacln        307 Jul 15 10:43 VerifyCsrfToken.php

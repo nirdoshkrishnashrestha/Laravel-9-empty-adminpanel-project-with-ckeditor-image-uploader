@@ -1,0 +1,5 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:05 .
+drwxr-xr-x   4 sppp     psacln       4096 Oct 11 00:05 ..
+-rw-r--r--   1 sppp     psacln       2297 Jul 15 10:44 Enumerator.php
+-rw-r--r--   1 sppp     psacln        378 Jul 15 10:44 Exception.php
+-rw-r--r--   1 sppp     psacln        410 Jul 15 10:44 InvalidArgumentException.php

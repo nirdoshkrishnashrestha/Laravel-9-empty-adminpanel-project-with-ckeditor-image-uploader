@@ -1,0 +1,11 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x  10 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln       3288 Jul 15 10:44 IsArray.php
+-rw-r--r--   1 sppp     psacln       1497 Jul 15 10:44 IsArrayContaining.php
+-rw-r--r--   1 sppp     psacln       1498 Jul 15 10:44 IsArrayContainingInAnyOrder.php
+-rw-r--r--   1 sppp     psacln       1392 Jul 15 10:44 IsArrayContainingInOrder.php
+-rw-r--r--   1 sppp     psacln       1964 Jul 15 10:44 IsArrayContainingKey.php
+-rw-r--r--   1 sppp     psacln       2259 Jul 15 10:44 IsArrayContainingKeyValuePair.php
+-rw-r--r--   1 sppp     psacln       1485 Jul 15 10:44 IsArrayWithSize.php
+-rw-r--r--   1 sppp     psacln       1622 Jul 15 10:44 MatchingOnce.php
+-rw-r--r--   1 sppp     psacln       1836 Jul 15 10:44 SeriesMatchingOnce.php

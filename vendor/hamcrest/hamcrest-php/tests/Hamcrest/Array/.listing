@@ -1,0 +1,9 @@
+drwxr-xr-x   2 sppp     psacln       4096 Oct 11 00:04 .
+drwxr-xr-x   9 sppp     psacln       4096 Oct 11 00:04 ..
+-rw-r--r--   1 sppp     psacln       1724 Jul 15 10:44 IsArrayContainingInAnyOrderTest.php
+-rw-r--r--   1 sppp     psacln       1561 Jul 15 10:44 IsArrayContainingInOrderTest.php
+-rw-r--r--   1 sppp     psacln       1598 Jul 15 10:44 IsArrayContainingKeyTest.php
+-rw-r--r--   1 sppp     psacln       1098 Jul 15 10:44 IsArrayContainingKeyValuePairTest.php
+-rw-r--r--   1 sppp     psacln       1261 Jul 15 10:44 IsArrayContainingTest.php
+-rw-r--r--   1 sppp     psacln       2494 Jul 15 10:44 IsArrayTest.php
+-rw-r--r--   1 sppp     psacln       1155 Jul 15 10:44 IsArrayWithSizeTest.php
